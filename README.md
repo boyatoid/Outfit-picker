@@ -12,4 +12,6 @@ This app will take some configuration to get working
 6. Use the "Main" java file to run the application once everything is configured :)
 
 I believe that is all of the configuration needed to run this project on your machine, If you encounter any problems please reach out to me at any time :)
-- Andrew Boyer, email: ajb8661@psu.edu, phone: 4844018782
+
+no key.json file, grab ur own from google lmao
+- Andrew Boyer, email: *******@psu.edu, phone: ******

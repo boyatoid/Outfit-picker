@@ -18,8 +18,8 @@ import java.util.Scanner;
 public class DBC_Integrated {
     private static String url = "jdbc:mysql://127.0.0.1:3306/groupproject?allowPublicKeyRetrieval=true&useSSL=false";
     private static String user = "root";
-    private static String password = "team001";
-    // docker run --name project_database -e MYSQL_ROOT_PASSWORD=team001 -e MYSQL_DATABASE=groupproject -p 3306:3306 -d mysql:8.0
+    private static String password = "******";
+    // docker run --name project_database -e MYSQL_ROOT_PASSWORD=****** -e MYSQL_DATABASE=groupproject -p 3306:3306 -d mysql:8.0
     // get it up and running ^ 
     // !*for first run, open docker and spin up container if already created*!
     

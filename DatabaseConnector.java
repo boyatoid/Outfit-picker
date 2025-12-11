@@ -19,7 +19,7 @@ import java.util.List;
 public class DatabaseConnector {
     private static String url = "jdbc:mysql://127.0.0.1:3306/groupproject?allowPublicKeyRetrieval=true&useSSL=false";
     private static String user = "root";
-    private static String password = "team001";
+    private static String password = "********"; // no pass for u
     private static String db_image;
     
     /**
